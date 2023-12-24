@@ -15,4 +15,4 @@ e.g. ./bin/aise ./bin/array-1.c
 ./bin/aise --version 
 
 ## about SV-COMP2024
-It's the first time we try to particapate in SV-COMP, we only focus on a single category "Reachability-Loops", AISE ranked 5th in this category. AISE's archive is publicly avaliable in https://doi.org/10.5281/zenodo.10201159. AISE's approach is new and it is different with related works. Currently AISE has no publications. The prototype of AISE is very basic, we just implemented funmental functions, and haven't yet polished the tool at the implementation level.
+It's the first time we try to particapate in SV-COMP, we only focus on a single category "Reachability-Loops". AISE ranked 5th in this category, the results can be found here: (https://sv-comp.sosy-lab.org/2024/results/results-verified/). AISE's archive is publicly avaliable in https://doi.org/10.5281/zenodo.10201159. 
